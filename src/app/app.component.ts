@@ -14,7 +14,7 @@ import { ArkService } from './ark.service';
 
 export class AppComponent implements OnInit {
 
-  title = 'Lost Ark List';
+  title = 'Daily Checker';
   selected = new FormControl(0);
   newChar = '';
   checkedColor = 'accent';
