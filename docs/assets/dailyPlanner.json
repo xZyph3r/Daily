@@ -204,21 +204,21 @@
   "type": 3,
   "title": "Una Weekly 1",
   "checked": false,
-  "details": [16],
+  "details": [7],
   "description":"3 Una tasks per week. Can be expanded up to +1.",
   "image":"./assets/image/weekly.png"
 }, {
   "type": 3,
   "title": "Una Weekly 2",
   "checked": false,
-  "details": [16],
+  "details": [7],
   "description":"3 Una tasks per week. Can be expanded up to +1.",
   "image":"./assets/image/weekly.png"
 }, {
   "type": 3,
   "title": "Una Weekly 3",
   "checked": false,
-  "details": [16],
+  "details": [7],
   "description":"3 Una tasks per week. Can be expanded up to +1.",
   "image":"./assets/image/weekly.png"
 }, {
