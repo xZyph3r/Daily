@@ -1,0 +1,231 @@
+[{
+  "type": 0,
+  "title": "Rapport Songs",
+  "checked": false,
+  "details": [5],
+  "description":"5 Songs per day (+1 with Blessing).",
+  "image":"./assets/image/rapport.png"
+}, {
+  "type": 0,
+  "title": "Rapport Emotes",
+  "checked": false,
+  "details": [5],
+  "description":"5 Emotes per day (+1 with Blessing).",
+  "image":"./assets/image/rapport.png"
+}, {
+  "type": 0,
+  "title": "Adventure Island",
+  "checked": false,
+  "details": [],
+  "description": "Sat-Sun at 14:00 & 21:00. Mon-Fri at 21:00. ",
+  "image":"./assets/image/islands.png"
+}, {
+  "type": 0,
+  "title": "Coop-Mission",
+  "checked": false,
+  "details": [],
+  "description": "Appears multiple times per day.",
+  "image":"./assets/image/coopnav.png"
+}, {
+  "type": 0,
+  "title": "Word Boss",
+  "checked": false,
+  "details": [8, 6],
+  "description": "Once per day (Only on specific days).",
+  "image":"./assets/image/boss.png"
+}, {
+  "type": 0,
+  "title": "Chaos Gate",
+  "checked": false,
+  "details": [8, 6],
+  "description":"At specific times.",
+  "image":"./assets/image/chaos.png"
+}, {
+  "type": 1,
+  "title": "Challenge Abyss Dungeon",
+  "checked": false,
+  "details": [5],
+  "description": "1 per week per Challenge Abyss Dungeon.",
+  "image":"./assets/image/challenge.png"
+}, {
+  "type": 1,
+  "title": "GVG/ Guild Boss",
+  "checked": false,
+  "details": [7],
+  "description":"Once per week.",
+  "image":"./assets/image/gvg.png"
+}, {
+  "type": 1,
+  "title": "Merchant Ship Exchange",
+  "checked": false,
+  "details": [13],
+  "description":"Supply replenishes on weekly reset.",
+  "image":"./assets/image/ship.png"
+}, {
+  "type": 1,
+  "title": "Silmael Bloodstone Exchange",
+  "checked": false,
+  "details": [13],
+  "description":"Supply replenishes on weekly reset.",
+  "image":"./assets/image/bloodstone.png"
+}, {
+  "type": 1,
+  "title": "PVP token Exchange",
+  "checked": false,
+  "details": [13],
+  "description":"Supply replenishes on weekly reset.",
+  "image":"./assets/image/pvpex.png"
+}, {
+  "type": 1,
+  "title": "Ghost Ship",
+  "checked": false,
+  "details": [8],
+  "description":"At specific times.",
+  "image":"./assets/image/shipweekly.png"
+}, {
+  "type": 1,
+  "title": "PVP Island",
+  "checked": false,
+  "details": [],
+  "image":"./assets/image/pvp.png"
+}, {
+  "type": 2,
+  "title": "Chaos Dungeon 1",
+  "checked": false,
+  "details": [17,9],
+  "description":"Uses 50 Energy per run. Gain 100 Energy per day. Energy restored per Character.",
+  "image":"./assets/image/dungeon.png"
+}, {
+  "type": 2,
+  "title": "Chaos Dungeon 2",
+  "checked": false,
+  "details": [17,9],
+  "description":"Uses 50 Energy per run. Gain 100 Energy per day. Energy restored per Character.",
+  "image":"./assets/image/dungeon.png"
+}, {
+  "type": 2,
+  "title": "Guardian Raid 1",
+  "checked": false,
+  "details": [0,9],
+  "description":"Uses 1 Guardian Soul per harvest. Gain 2 Guardian Souls per day.",
+  "image":"./assets/image/raid.png"
+}, {
+  "type": 2,
+  "title": "Guardian Raid 2",
+  "checked": false,
+  "details": [0,9],
+  "description":"Uses 1 Guardian Soul per harvest. Gain 2 Guardian Souls per day.",
+  "image":"./assets/image/raid.png"
+}, {
+  "type": 2,
+  "title": "Una Daily 1",
+  "checked": false,
+  "details": [19,10],
+  "description":"3 Una tasks per day. Can be expanded up to +3.",
+  "image":"./assets/image/dayli.png"
+}, {
+  "type": 2,
+  "title": "Una Daily 2",
+  "checked": false,
+  "details": [19,10],
+  "description":"3 Una tasks per day. Can be expanded up to +3.",
+  "image":"./assets/image/dayli.png"
+}, {
+  "type": 2,
+  "title": "Una Daily 3",
+  "checked": false,
+  "details": [19,10],
+  "description":"3 Una tasks per day. Can be expanded up to +3.",
+  "image":"./assets/image/dayli.png"
+}, {
+  "type": 2,
+  "title": "Trade Skills",
+  "checked": false,
+  "details": [],
+  "description":"untill you cant press G no more!",
+  "image":"./assets/image/trade.png"
+}, {
+  "type": 2,
+  "title": "Guild Support",
+  "checked": false,
+  "details": [4],
+  "description":"1 Donation per day. 1 Research Support per day.",
+  "image":"./assets/image/gvg.png"
+}, {
+  "type": 3,
+  "title": "Guardian Challenge Mode 1",
+  "checked": false,
+  "details": [7, 15],
+  "description":"1 per week per Boss (3 in total). Availability is per character.",
+  "image":"./assets/image/raid.png"
+}, {
+  "type": 3,
+  "title": "Guardian Challenge Mode 2",
+  "checked": false,
+  "details": [7, 15],
+  "description":"1 per week per Boss (3 in total). Availability is per character.",
+  "image":"./assets/image/raid.png"
+}, {
+  "type": 3,
+  "title": "Guardian Challenge Mode 3",
+  "checked": false,
+  "details": [7, 15],
+  "description":"1 per week per Boss (3 in total). Availability is per character.",
+  "image":"./assets/image/raid.png"
+}, {
+  "type": 3,
+  "title": "Abyss Dungeon 1",
+  "checked": false,
+  "details": [18,12],
+  "description": "3 per week per Abyss Dungeon. Availability is per character.You can only complete one difficulty per week.",
+  "image":"./assets/image/abyss.png"
+}, {
+  "type": 3,
+  "title": "Abyss Dungeon 2",
+  "checked": false,
+  "details": [18,12],
+  "description": "3 per week per Abyss Dungeon. Availability is per character.You can only complete one difficulty per week.",
+  "image":"./assets/image/abyss.png"
+}, {
+  "type": 3,
+  "title": "Abyss Dungeon 3",
+  "checked": false,
+  "details": [18,12],
+  "description": "3 per week per Abyss Dungeon. Availability is per character.You can only complete one difficulty per week.",
+  "image":"./assets/image/abyss.png"
+}, {
+  "type": 3,
+  "title": "Una Weekly 1",
+  "checked": false,
+  "details": [16],
+  "description":"3 Una tasks per week. Can be expanded up to +1.",
+  "image":"./assets/image/weekly.png"
+}, {
+  "type": 3,
+  "title": "Una Weekly 2",
+  "checked": false,
+  "details": [16],
+  "description":"3 Una tasks per week. Can be expanded up to +1.",
+  "image":"./assets/image/weekly.png"
+}, {
+  "type": 3,
+  "title": "Una Weekly 3",
+  "checked": false,
+  "details": [16],
+  "description":"3 Una tasks per week. Can be expanded up to +1.",
+  "image":"./assets/image/weekly.png"
+}, {
+  "type": 3,
+  "title": "Abyss Raid",
+  "checked": false,
+  "details": [7, 16],
+  "description":"1 per week per Abyss Raid.Availability is per character.",
+  "image":"./assets/image/abyssraid.png"
+}, {
+  "type": 3,
+  "title": "Legion Raid",
+  "checked": false,
+  "details": [7],
+  "description":"1 per week (shared between difficutlies).Availability is per character.",
+  "image":"./assets/image/legion.png"
+}]

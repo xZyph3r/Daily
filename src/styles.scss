@@ -1,0 +1,68 @@
+@use '@angular/material' as mat;
+@include mat.core();
+$chips-blue: (
+    50 : #eef5fb,
+    100 : #d4e5f5,
+    200 : #b7d4ee,
+    300 : #9ac2e7,
+    400 : #85b5e1,
+    500 : #6fa8dc,
+    600 : #67a0d8,
+    700 : #5c97d3,
+    800 : #528dce,
+    900 : #407dc5,
+    A100 : #ffffff,
+    A200 : #e3efff,
+    A400 : #b0d3ff,
+    A700 : #96c4ff,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #000000,
+        800 : #000000,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+$LostArkList-primary: mat.define-palette(mat.$indigo-palette);
+$LostArkList-accent: mat.define-palette($chips-blue, 500);
+$LostArkList-warn: mat.define-palette(mat.$red-palette);
+$LostArkList-theme: mat.define-dark-theme((
+  color: (
+    primary: $LostArkList-primary,
+    accent: $LostArkList-accent,
+    warn: $LostArkList-warn,
+  )
+));
+@include mat.all-component-themes($LostArkList-theme);
+
+html, body { height: 100%; background-color: #333; color:white }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mat-list-base .mat-list-item.mat-list-item-with-avatar .mat-list-item-content .mat-list-text, .mat-list-base .mat-list-item.mat-list-option .mat-list-item-content .mat-list-text, .mat-list-base .mat-list-option.mat-list-item-with-avatar .mat-list-item-content .mat-list-text, .mat-list-base .mat-list-option.mat-list-option .mat-list-item-content .mat-list-text {
+  padding-right: 0;
+  padding-left: 16px;
+  margin-left: -1rem;
+  min-width: 350px;
+}
+
+
+.mat-tab-label:first-child {
+  background: purple;
+  border-radius:27% 73% 0% 100% / 100% 0% 100% 0%  ;
+}
+.mat-tab-label{
+  background-color: rgb(66, 66, 170);
+  .mat-tab-label-content{
+    font-size: 20px;
+  }
+}
+

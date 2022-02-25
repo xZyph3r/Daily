@@ -1,0 +1,45 @@
+<div class="header" fxLayout="row" fxLayoutAlign="center center ">
+  <h1>{{title}}</h1>
+</div>
+
+<mat-toolbar fxLayout="row" fxLayoutAlign="space-evenly center">
+  <span>
+    daily: {{getArkData.dailyString}}
+  </span>
+  <span>
+    weekly: {{getArkData.weeklyString}}
+  </span>
+</mat-toolbar>
+
+<div class="space" fxLayout="row" fxLayoutAlign="center center" fxLayoutGap="2rem">
+  <button mat-raised-button (click)="download()">save to document</button>
+  <button mat-raised-button (click)="fileInput.click()">import document</button>
+  <input hidden (change)="upload()" type="file" #fileInput id="file" accept="application/json">
+</div>
+
+<div class="space" fxLayout="row" fxLayoutAlign="center center" fxLayoutGap="2rem">
+  <mat-form-field>
+    <mat-label>Character name</mat-label>
+    <input matInput type="text" [(ngModel)]="newChar" (keydown.enter)="addChar()">
+  </mat-form-field>
+  <div>
+    <button mat-raised-button [disabled]="newChar ===''" (click)="addChar()">
+      Add Character
+    </button>
+  </div>
+</div>
+
+<div fxLayout="column" class="height-tp">
+  <mat-tab-group color="primary" mat-align-tabs="center" [selectedIndex]="selectedindex"
+    (selectedIndexChange)="selected.setValue($event)">
+
+    <mat-tab *ngFor="let character of getArkData.tabs; let index = index" [label]="character.name">
+      <button mat-raised-button [disabled]="getArkData.tabs.length === 1" (click)="removeTab(index)">
+        Delete Character
+      </button>
+
+      <app-character-tab [characters]="character"></app-character-tab>
+
+    </mat-tab>
+  </mat-tab-group>
+</div>

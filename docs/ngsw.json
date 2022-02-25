@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1645632415521,
+  "index": "https://conduit1311.github.io/LostArktodo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://conduit1311.github.io/LostArktodo/favicon.ico",
+        "https://conduit1311.github.io/LostArktodo/index.html",
+        "https://conduit1311.github.io/LostArktodo/main.5733326549be58a7.js",
+        "https://conduit1311.github.io/LostArktodo/manifest.webmanifest",
+        "https://conduit1311.github.io/LostArktodo/polyfills.0586e86bba99bebd.js",
+        "https://conduit1311.github.io/LostArktodo/runtime.a4caa2d01764b605.js",
+        "https://conduit1311.github.io/LostArktodo/styles.e92865632b5788c1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://conduit1311.github.io/LostArktodo/assets/dailyPlanner.json",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-128x128.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-144x144.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-152x152.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-192x192.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-384x384.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-512x512.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-72x72.png",
+        "https://conduit1311.github.io/LostArktodo/assets/icons/icon-96x96.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/abyss.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/abyssraid.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/bloodstone.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/boss.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/challenge.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/chaos.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/coop.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/coopnav.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/dayli.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/dungeon.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/guild.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/gvg.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/islands.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/legion.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/menu_icon_rapport-removebg-preview.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/pvp.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/pvpex.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/raid.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/rapport.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/ship.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/shipweekly.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/slaves.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/trade.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/voyage.png",
+        "https://conduit1311.github.io/LostArktodo/assets/image/weekly.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://conduit1311.github.io/LostArktodo/assets/dailyPlanner.json": "e7fb3c37fa29b6badf0a632ff6759305d1fa1a13",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://conduit1311.github.io/LostArktodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://conduit1311.github.io/LostArktodo/assets/image/abyss.png": "e8085dfbfa3a1b2e5e393b8118d8fe74633afea8",
+    "https://conduit1311.github.io/LostArktodo/assets/image/abyssraid.png": "b18bf634b77d29a9ae9da16d25eb5b88d8878eac",
+    "https://conduit1311.github.io/LostArktodo/assets/image/bloodstone.png": "568c3fb8975b1f5003fff40198a975a2794d52a5",
+    "https://conduit1311.github.io/LostArktodo/assets/image/boss.png": "765d590172b191a4c70d2c8c62d2a1279bb19e19",
+    "https://conduit1311.github.io/LostArktodo/assets/image/challenge.png": "b54d91ff2699644cbcf42f47c581bc492d191cc9",
+    "https://conduit1311.github.io/LostArktodo/assets/image/chaos.png": "d5b0a8da003a0a550d925c740e4c627dafecd649",
+    "https://conduit1311.github.io/LostArktodo/assets/image/coop.png": "50967c2cf04e4222711c713791bf31b54fe1d9da",
+    "https://conduit1311.github.io/LostArktodo/assets/image/coopnav.png": "038892ff1a5055f797067009e5d713018b497c43",
+    "https://conduit1311.github.io/LostArktodo/assets/image/dayli.png": "b82cadfe78db321703edc67d429e05a42d229586",
+    "https://conduit1311.github.io/LostArktodo/assets/image/dungeon.png": "cf9215445f0265084df9734672671acf1db6f4f7",
+    "https://conduit1311.github.io/LostArktodo/assets/image/guild.png": "afd0a977507d4632dd68bb1a1752107edaaa482e",
+    "https://conduit1311.github.io/LostArktodo/assets/image/gvg.png": "e7e0642b593e86d2b93f7f1c7f29b5987f7b6319",
+    "https://conduit1311.github.io/LostArktodo/assets/image/islands.png": "e984604b03968c56cb2a4af5aa5e47ce4b4084d6",
+    "https://conduit1311.github.io/LostArktodo/assets/image/legion.png": "cf0a42c3bb3ab0a40e504869f2d9f505342c4108",
+    "https://conduit1311.github.io/LostArktodo/assets/image/menu_icon_rapport-removebg-preview.png": "d6a48867808e42593df25ffbb0a3b6581df7fa60",
+    "https://conduit1311.github.io/LostArktodo/assets/image/pvp.png": "32584efa291dcd7a393db7b1d745fcdc30038171",
+    "https://conduit1311.github.io/LostArktodo/assets/image/pvpex.png": "63ccd750ab72d0a5d412e955f4d708e2faccf304",
+    "https://conduit1311.github.io/LostArktodo/assets/image/raid.png": "644b44547cfb32fa4c62021d6aa547faa3223c87",
+    "https://conduit1311.github.io/LostArktodo/assets/image/rapport.png": "c1d931ca282286531ad444661b284bc0941199b6",
+    "https://conduit1311.github.io/LostArktodo/assets/image/ship.png": "dfb062491a28223284211b9f9130da1a7adb3601",
+    "https://conduit1311.github.io/LostArktodo/assets/image/shipweekly.png": "9ea73f7a9899b855e794de0641ba1e96e21d6b1c",
+    "https://conduit1311.github.io/LostArktodo/assets/image/slaves.png": "b6b3a3eb142b864a54abd38a5aefce4301e6f305",
+    "https://conduit1311.github.io/LostArktodo/assets/image/trade.png": "e6230be19573dcbdccf25e8b93c99581ecf1e0d1",
+    "https://conduit1311.github.io/LostArktodo/assets/image/voyage.png": "623e70df951020d7438c8704e2d95c57ccfc9cf0",
+    "https://conduit1311.github.io/LostArktodo/assets/image/weekly.png": "af3001982618681a4af275870449a63644265159",
+    "https://conduit1311.github.io/LostArktodo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://conduit1311.github.io/LostArktodo/index.html": "19d9a299dd69d0e106b9940fdee09ed3a07881ff",
+    "https://conduit1311.github.io/LostArktodo/main.5733326549be58a7.js": "b0f875220f38b7fa679d1447b5468974f15b3336",
+    "https://conduit1311.github.io/LostArktodo/manifest.webmanifest": "1c297ccd0ba94a068983adbf1610aa8a25b6f840",
+    "https://conduit1311.github.io/LostArktodo/polyfills.0586e86bba99bebd.js": "45c68c169c877f2cb1c2277b12f213edefa10f1c",
+    "https://conduit1311.github.io/LostArktodo/runtime.a4caa2d01764b605.js": "9aa4e3af2969330e8b0c7b9d0049d0a9da8742a5",
+    "https://conduit1311.github.io/LostArktodo/styles.e92865632b5788c1.css": "d116bffd19b082b8a2d8be0cf539c226da3b3b70"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
