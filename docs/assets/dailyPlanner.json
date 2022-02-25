@@ -190,7 +190,7 @@
   "type": 3,
   "title": "Abyss Dungeon 3",
   "checked": false,
-  "details": [12],
+  "details": [15],
   "description": "3 per week per Abyss Dungeon. Availability is per character.You can only complete one difficulty per week.",
   "image":"./assets/image/abyss.png"
 }, {
