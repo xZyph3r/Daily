@@ -193,6 +193,13 @@
   "details": [18,12],
   "description": "3 per week per Abyss Dungeon. Availability is per character.You can only complete one difficulty per week.",
   "image":"./assets/image/abyss.png"
+},{
+  "type": 3,
+  "title": "Abyss Dungeon 4",
+  "checked": false,
+  "details": [12],
+  "description": "3 per week per Abyss Dungeon. Availability is per character.You can only complete one difficulty per week.",
+  "image":"./assets/image/abyss.png"
 }, {
   "type": 3,
   "title": "Una Weekly 1",
