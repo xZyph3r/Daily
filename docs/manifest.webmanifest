@@ -1,6 +1,6 @@
 {
-  "name": "LostArkList",
-  "short_name": "LostArkList",
+  "name": "Daily Checker",
+  "short_name": "Daily Checker",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
